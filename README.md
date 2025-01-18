@@ -1,0 +1,1 @@
+# gerador-senha-sqlite3
